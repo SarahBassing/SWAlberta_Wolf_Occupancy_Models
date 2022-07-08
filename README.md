@@ -1,2 +1,4 @@
 # SWAlberta_Wolf_Occupancy_Models
-Series of occupancy models building in complexity from single-season to dynamic false positive models designed to estimate distribution of wolf packs across southwestern Alberta study area and evaluate the effects of public harvest on their occurrence patterns.
+Series of occupancy models building in complexity, from single-season to dynamic false-positive, developed to estimate the distribution of wolf packs across the MTCWRU southwestern Alberta study area and evaluate the effects of public harvest on their occurrence patterns. Written as part of Sarah Bassing's master's thesis. Final results published in "Stable pack abundance and distribution in a harvested wolf population" in the Journal of Wildlife Management (https://wildlife.onlinelibrary.wiley.com/doi/abs/10.1002/jwmg.21616).
+
+Detection/non-detection data comprised two sources: non-invasive genetic sampling at wolf rendezvous sites in the summer ("certain" detections) and reported observations of wolves made by hunters during the fall hunting season ("uncertain" detections). Data were collected June - Dec 2012, 2013, 2014.
